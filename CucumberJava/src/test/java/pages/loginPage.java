@@ -39,6 +39,8 @@ public class loginPage {
 		System.out.println("second");
 		System.out.println("second");
 		System.out.println("second");
+		System.out.println("second programe");
+		
 	}
 	
 	public void clickLogin() {
