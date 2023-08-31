@@ -36,7 +36,8 @@ public class loginPage {
 	public void enterPassword(String password) {
 		
 		driver.findElement(txt_password).sendKeys(password);
-		System.out.println("second");
+		System.out.println("second programe");
+		
 	}
 	
 	public void clickLogin() {
