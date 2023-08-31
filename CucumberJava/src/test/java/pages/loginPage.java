@@ -36,6 +36,7 @@ public class loginPage {
 	public void enterPassword(String password) {
 		
 		driver.findElement(txt_password).sendKeys(password);
+		System.out.println();
 	}
 	
 	public void clickLogin() {
